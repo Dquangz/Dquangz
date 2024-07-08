@@ -8,7 +8,7 @@
           \_Welcome to LuaObfuscator.com   (Alpha 0.10.5) ~  Much Love, Ferib 
 
 ]]--
-([[This file was protected with MoonSec V3]]): local v0=loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))();v0:MakeNotification({Name="SOLARA Hub",Content="SOLARA ON TOP | USE ONLY SOLARA",Image="rbxassetid://4483345998",Time=120});local
+local v0=loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Orion/main/source"))();v0:MakeNotification({Name="SOLARA Hub",Content="SOLARA ON TOP | USE ONLY SOLARA",Image="rbxassetid://4483345998",Time=120});local
 v1=v0:MakeWindow({Name="SOLARA ScriptHub",HidePremium=false,SaveConfig=false,ConfigFolder="OrionTest"});local v2=v1:MakeTab({Name="Aimbot and 
 Esp",Icon="rbxassetid://4483345998",PremiumOnly=false});v2:AddButton({Name="Airhub",Callback=function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/AirHub/main/AirHub.lua"))
 ();end});v2:AddButton({Name="DeletedMob",Callback=function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Mick-gordon/Hyper-Escape/main/DeleteMobCheatEngine.lua"))();end});local
